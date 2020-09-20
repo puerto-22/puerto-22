@@ -11,6 +11,9 @@ I hope to help the community.
 - 🔭 I’m currently working on personal projects because I'm just learning yet.
 - 🌱 I’m currently learning Javascript for Backend and Frontend.
 
+Note:
+  I'm in love with Computer Networking and Languages!!! 
+
 <!--
 **puerto-22/puerto-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
