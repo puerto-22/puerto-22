@@ -5,11 +5,15 @@ I'm interested in Web Develepment.
 I am an autodidact and I would like to solve my own questions.
 Firstly, I started to watch videos on YouTube Platform, and I'm still doing today.
 
-I'd like to have My Startup, for this reason I named it Puerto22 in this repo.
+I'd like to have My Startup, for this reason I named it REDLA in this repo.
 I hope to help the community.
 
 - 🔭 I’m currently working on personal projects because I'm just learning yet.
 - 🌱 I’m currently learning Javascript for Backend and Frontend.
+
+You can find me:
+  - @jaelparrales
+  - redla.dev
 
 Note:
   I'm in love with Computer Networking and Languages!!! 
