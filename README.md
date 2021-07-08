@@ -13,7 +13,7 @@ I hope to help the community.
 
 You can find me:
   - @jaelparrales
-  - redla.dev
+  - morita.dev
 
 Note:
   I'm in love with Computer Networking and Languages!!! 
